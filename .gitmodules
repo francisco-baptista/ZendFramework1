@@ -1,0 +1,6 @@
+[submodule "library/Doctrine"]
+	path = library/Doctrine
+	url = git@github.com:clocklimited/Doctrine.git
+[submodule "library/Zend"]
+	path = library/Zend
+	url = git@github.com:clocklimited/Zend.git
